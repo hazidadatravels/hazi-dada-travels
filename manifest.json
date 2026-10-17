@@ -2,8 +2,8 @@
   "name": "Hazi Dada Travels",
   "short_name": "Hazi Dada",
   "description": "Travel with Hazi Dada Travels. Explore trips, vehicles, gallery, videos and book by phone, WhatsApp or enquiry.",
-  "start_url": "/hazi-dada-travels/",
-  "scope": "/hazi-dada-travels/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0b1220",
@@ -11,7 +11,7 @@
   "lang": "en",
   "icons": [
     {
-      "src": "/hazi-dada-travels/logo.png",
+      "src": "/logo.png",
       "sizes": "any",
       "type": "image/png",
       "purpose": "any maskable"
